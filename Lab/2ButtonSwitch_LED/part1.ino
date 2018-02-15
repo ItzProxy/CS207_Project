@@ -23,7 +23,4 @@ void loop() {
     digitalWrite(led1, LOW); //turn off led
     digitalWrite(led2, HIGH); //turn on led
   }
-  else{
-    
-  }
 }
