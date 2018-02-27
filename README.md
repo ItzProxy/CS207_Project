@@ -1,4 +1,4 @@
-# CS 207 Project
+# Alexa LED Cube - CS 207 Project
 Documentation for CS 207 Project
 
 ## Resources being used
@@ -7,8 +7,8 @@ Documentation for CS 207 Project
 * [Arduino Uno REV3](https://store.arduino.cc/usa/arduino-uno-rev3) Microcontroller 
 
 ## Languages to be used
-* C 
-* Python
+* C++ (.ino/.h)
+* Python 
 
 ## License
 This project is licensed under the MIT License
