@@ -1,0 +1,3 @@
+1. 595 Shift Registers can be used to extend the capabilties of a microcontroller. Such as extending to being able to control 8 things with only 3 pins, and with chaining more shift resgister you can then control even more
+2. 555 Timer is an integrated circuit that can hold a single bit of information based on 2 inputs
+Probably if I were to simplify the design to enable usage of a bunch of 555 timers to hold led states
