@@ -20,10 +20,11 @@
   you have linked up.
 */
 #include <Adafruit_NeoPixel.h>
+#include <ArduinoJson.h>
 #include "WS2812_Definitions.h"
 
 #define PIN 4
-#define LED_COUNT 10
+#define LED_COUNT 31
 
 // Create an instance of the Adafruit_NeoPixel class called "leds".
 // That'll be what we refer to from here on...
@@ -39,6 +40,7 @@ void setup()
 void loop()
 {
   // Ride the Rainbow Road
+  /*
   for (int i=0; i<LED_COUNT*10; i++)
   {
     rainbow(i);
@@ -52,6 +54,7 @@ void loop()
     // cylon function: first param is color, second is time (in ms) between cycles
     cylon(INDIGO, 500);  // Indigo cylon eye!
   }
+  */
   
   // A light shower of spring green rain
   // This will run the cascade from top->bottom 20 times
