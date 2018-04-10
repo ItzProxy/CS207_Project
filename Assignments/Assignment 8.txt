@@ -1,0 +1,3 @@
+1. Shorted my Accelerometer by accident. So had to reorder one and it put me behind a week in terms of testing.
+3. USB protocol, each time the usb polls the device, it will send a frame which will contain a start of frame header and a token packet, one or more data packets and/or a handshake packet. 
+Each one is sent at the change of the clock(either from the devices clock or the USB internal clock)
