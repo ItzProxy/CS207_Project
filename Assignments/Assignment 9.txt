@@ -1,0 +1,6 @@
+1. Static memory is memory that is not altered when power is not supplied to the memory source, while volitile memory is lost when power is lost.
+2. 
+	a. Compact Casette Tapes
+	b. Non-volitile
+	c. Analog magnetic strip that encodes audio signals. 
+	d. Yes, although majority of it is more vintage collection type of storage medium
